@@ -1,0 +1,75 @@
+O que é uma rede? 
+ - sincronizar dois ou mais dispositivos. Exemplo: conectar o fone bluetooth com o celular é uma rede.
+
+CLIENTE: quer usar o serviço
+INTERNET: é o meio do caminho
+SERVIDOR: faz o serviço
+
+Componentes: 
+
+ °PONTO A PONTO => sem nada no meio do caminho
+      um exemplo é o fone de ouvido
+
+ °DISPOSITIVO FINAL => onde você envia ou recebe a mensagem
+ 
+ °DISPOSITIVO INTERMEDIÁRIO => é o meio do caminho, fazem a distribuição acontecer. Não oferecem serviço. Interconecta dispositivos finais
+
+
+ °MEIO FÍSICO DE REDE => a comunicação através de uma rede é transmitida por um meio que permite a mensagem chegar no destino.
+      Fios metálicos dentro de cabos - tem problema com campo elétrico
+      Fibras de vidro ouplástico nos cabos (cabo de fibra óptica) - tem problema com umidade
+      Transmissão sem fio 
+
+
+
+COMO INTERLIGO?
+
+ °tem que representar fisicamente ou logicamente
+ °diagrama de topologia física => ilustram a localização física de dispositivos intermediários e a instalação de cabos.
+ °diagrama de topologia lógica => ilustram dispositivos, portas e o esquema de endereçamento da rede.
+ 
+
+*existem redes de vários tamanhos: doméstica pequena, home office pequeno, redes médias a grandes, redes mundiais
+
+
+*tipos comuns de redes: LANs (rede local, uma rede instalado em um único local) e WANs(rede de área ampla)
+
+  LAN => Interconecte dispositivos finais em uma área limitada, 
+         Administrado por uma única organização ou indivíduo, 
+         Forneça largura de banda de alta velocidade aos dispositivos internos.
+
+  WAN => Interconecte LANs em áreas geográficas amplas,
+         Normalmente , um ministrado por um ou mais provedores de serviços,
+         Geralmente, fornece links de velocidade mais lenta entre LANs.
+
+ 
+INTERNET
+
+ °A internet é uma coleção mundial de LANs e WANs interconectadas.
+ °A internet não tem dono
+
+
+CONEXÕES À INTERNET:
+
+ °cabo, dsl, celular, satélite, conexão discada
+
+
+CONEXÕES CORPORATIVAS COM A INTERNET: 
+
+ °linha dedicada privada, ethernet wan, dsl, satélite
+
+
+
+BYOD (Bring Your Own Device):
+  ex: usar seu próprio dispositivo para dentro da empresa. Uso de qualquer dispositivo, de qualquer propriedade e em qualquer lugar.
+
+
+
+COMPUTAÇÃO EM NUVEM: pg.57 
+
+ °armazenar arquivos pessoais ou fazer backup de nossos dados em servidores pela Internet,
+ °Permite que as empresas entregem a qualquer dispositivo em qualquer lugar do mundo.
+
+
+
+      
